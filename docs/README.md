@@ -7,3 +7,4 @@
 - classification.py — классификация
 - regression.py — регрессия
 - compute.py — вспомогательные вычисления
+- estimation.py — оценка качества моделей
