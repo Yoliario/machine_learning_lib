@@ -6,3 +6,4 @@
 
 - classification.py — классификация
 - regression.py — регрессия
+- compute.py — вспомогательные вычисления
